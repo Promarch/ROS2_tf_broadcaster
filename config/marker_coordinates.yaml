@@ -1,36 +1,36 @@
-# Marker coordinates (from the marker "fahrrad")
+# Marker coordinates (from the marker "tibia")
 tibia_marker:
-  - x: -0.005757
-    y: -0.020877
-    z: -0.010246
-  - x: -0.013221
-    y: 0.012324
-    z: -0.013255
-  - x: 0.027038
-    y: 0.009612
-    z: -0.006863
-  - x: 0.003638
-    y: -0.008518
-    z: 0.016896
-  - x: -0.012142
-    y: 0.007617
-    z: 0.014086
+- x: 0.02018
+  y: 0.010084
+  z: 0.004295
+- x: 0.003201
+  y: -0.0062
+  z: -0.028947
+- x: -0.020532
+  y: 0.004186
+  z: 0.006733
+- x: -0.015414
+  y: -0.034576
+  z: 0.001029
+- x: 0.012565
+  y: 0.026507
+  z: 0.016891
 
 # Reference coordinates (user-defined coordinate system)
 # These correspond directly to the marker points in the same order
 tibia_ref:
+  - x: 0.0
+    y: 0.018
+    z: -0.02
   - x: 0.025
     y: 0.0
     z: 0.0
+  - x: 0.0
+    y: -0.028
+    z: -0.02
   - x: -0.015
     y: 0.0
     z: 0.0
-  - x: 0.0
-    y: 0.028
-    z: -0.02
-  - x: 0.0
-    y: -0.018
-    z: -0.02
   - x: 0.0
     y: 0.0
     z: 0.015
